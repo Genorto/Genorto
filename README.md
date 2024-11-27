@@ -42,11 +42,3 @@
 ###
 
 <p align="left">I also mean to create a repo for my Hyprland configuration, but I am too busy right now...</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Genorto/Genorto/output/snake.svg" alt="Snake animation" />
-
-###
