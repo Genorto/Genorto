@@ -1,12 +1,10 @@
 <h1 align="center">Welcome to my profile!</h1>
 
-###
-
 <h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">Just an amateur C++ coder. (＾▽＾)</p>
+<p align="left">Just an amateur C++ coder</p>
 
 ###
 
@@ -31,8 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="70" alt="qt logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="git logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="70" alt="bash logo"  />
 </div>
 
 ###
