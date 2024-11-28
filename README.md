@@ -29,12 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="70" alt="qt logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="git logo"  />
+  <img width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Archlinux-logo-standard-version.svg" height="70" alt="arch logo"  />
 </div>
-
-###
-
-<h4 align="left">I use Arch btw</h4>
-
-###
-
-<p align="left">I also mean to create a repo for my Hyprland configuration, but I am too busy right now...</p>
