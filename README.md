@@ -25,3 +25,7 @@
   <img width="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Archlinux-logo-standard-version.svg" height="70" alt="arch logo"  />
 </div>
+
+###
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushk)
